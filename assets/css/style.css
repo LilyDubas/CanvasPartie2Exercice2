@@ -1,0 +1,8 @@
+#canvas{
+  display:block;
+  margin:auto;
+  width:450px;
+  height:450px;
+  justify-content: center;
+  background-color: darkblue;
+}
