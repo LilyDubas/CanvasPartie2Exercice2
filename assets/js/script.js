@@ -39,5 +39,9 @@ ctx.fill();
 ctx.beginPath();
 ctx.strokeStyle = "#FFFFFF";
 ctx.fillStyle = "yellow";
-ctx.moveTo(235,175);
-ctx.bezierCurveTo()
+ctx.moveTo(195,170);
+ctx.lineTo(235,400);
+ctx.lineTo(150,400);
+ctx.closePath();
+ctx.stroke();
+ctx.fill();
